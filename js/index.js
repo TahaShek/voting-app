@@ -17,6 +17,9 @@ CardContainer.innerHTML = `
 <div class="card-body">
   <p>Name: ${CardObject.Name}</p>
   <p>Points: ${CardObject.Points}</p>
+  <p>Points: ${CardObject.Id}</p>
+
+
 </div>
     </div>
 `
